@@ -49,13 +49,13 @@ A curated list of resources for learning **Finnish (suomi)**.
 
 - [Uusi kielemme](https://uusikielemme.fi)
 - [Kielitoimiston ohjepankki](https://www.kielitoimistonohjepankki.fi) - Official usage advice, in Finnish.
+- [Aalto open learning](https://openlearning.aalto.fi/mod/page/view.php?id=4673) - Aalto's Open university course
 
 [⬆ Back to top](#top)
 
 ## Vocabulary
 
 - [AnkiWeb shared decks](https://ankiweb.net/shared/decks?search=finnish) - Community deck.
-- [Aalto open learning](https://openlearning.aalto.fi/mod/page/view.php?id=4673) - Aalto's Open university course
 - [Quizlet](https://quizlet.com) - Search for Finnish sets by topic.
 
 [⬆ Back to top](#top)
